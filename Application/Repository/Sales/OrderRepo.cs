@@ -28,7 +28,7 @@ namespace Application.Repository.Sales
            
             try
             {
-                var hhh = await _context.OrderH.Where(ordH => ordH.BranchCode == BranchCode &&
+                var hhh = await _context.OrderH.Where(ordH => ordH.BranchCode == BranchCode &&  
                     ordH.ProcessType == ProcessType && ordH.Type == Type && ordH.Year == Year&&ordH.Serial==serial).FirstOrDefaultAsync();
                 
                    _context.OrderH.Remove(hhh);
