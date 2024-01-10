@@ -1,0 +1,35 @@
+E:\Standar Moduel Last\Githup\StandarApi-\Common\bin\Debug\net6.0\Common.deps.json
+E:\Standar Moduel Last\Githup\StandarApi-\Common\bin\Debug\net6.0\Common.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Common\bin\Debug\net6.0\Common.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\Common\bin\Debug\net6.0\Domain.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Common\bin\Debug\net6.0\Domain.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+E:\Standar Moduel Last\Githup\StandarApi-\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Standar Moduel Last\Githup\StandarApi-\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+E:\Standar Moduel Last\Githup\StandarApi-\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+E:\Standar Moduel Last\Githup\StandarApi-\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+E:\Standar Moduel Last\Githup\StandarApi-\Common\obj\Debug\net6.0\Common.csproj.CopyComplete
+E:\Standar Moduel Last\Githup\StandarApi-\Common\obj\Debug\net6.0\Common.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Common\obj\Debug\net6.0\refint\Common.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Common\obj\Debug\net6.0\Common.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\Common\obj\Debug\net6.0\ref\Common.dll
+D:\StandarApi-\Common\bin\Debug\net6.0\Common.deps.json
+D:\StandarApi-\Common\bin\Debug\net6.0\Common.dll
+D:\StandarApi-\Common\bin\Debug\net6.0\Common.pdb
+D:\StandarApi-\Common\bin\Debug\net6.0\Domain.dll
+D:\StandarApi-\Common\bin\Debug\net6.0\Domain.pdb
+D:\StandarApi-\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\StandarApi-\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\StandarApi-\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\StandarApi-\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\StandarApi-\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\StandarApi-\Common\obj\Debug\net6.0\Common.csproj.CopyComplete
+D:\StandarApi-\Common\obj\Debug\net6.0\Common.dll
+D:\StandarApi-\Common\obj\Debug\net6.0\refint\Common.dll
+D:\StandarApi-\Common\obj\Debug\net6.0\Common.pdb
+D:\StandarApi-\Common\obj\Debug\net6.0\ref\Common.dll
+D:\StandarApi-\Common\bin\Debug\net6.0\Persistence.dll
+D:\StandarApi-\Common\bin\Debug\net6.0\Persistence.pdb
+D:\StandarApi-\Common\bin\Debug\net6.0\Common.runtimeconfig.json
+D:\StandarApi-\Common\obj\Debug\net6.0\Common.genruntimeconfig.cache
+D:\StandarApi-\Common\obj\Debug\net6.0\Common.sourcelink.json

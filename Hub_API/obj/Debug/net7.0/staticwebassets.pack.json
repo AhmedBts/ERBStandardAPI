@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\StandarApi-\\Hub_API\\wwwroot\\Images\\15\\Images.png",
+      "PackagePath": "staticwebassets\\Images\\15\\Images.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Hub_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Hub_API.props",
+      "PackagePath": "build\\Hub_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Hub_API.props",
+      "PackagePath": "buildMultiTargeting\\Hub_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Hub_API.props",
+      "PackagePath": "buildTransitive\\Hub_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

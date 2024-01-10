@@ -1,0 +1,11 @@
+﻿global using  Application.Interface.SecurityModule.Master;
+global using CleanArch.Api.Models;
+global using Domain.Entities.Views;
+global using Microsoft.AspNetCore.Authorization;
+global using Microsoft.AspNetCore.Cors;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.Data.SqlClient;
+global using Domain.Entities.SecurityModule.Master;
+global using Microsoft.AspNetCore.Authentication.JwtBearer;
+global using Application;
+global using Application.Interface.SecurityModule.Transaction;

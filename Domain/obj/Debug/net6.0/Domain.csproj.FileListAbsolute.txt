@@ -1,0 +1,25 @@
+E:\Standar Moduel Last\Githup\StandarApi-\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Standar Moduel Last\Githup\StandarApi-\Domain\bin\Debug\net6.0\Domain.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Standar Moduel Last\Githup\StandarApi-\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Standar Moduel Last\Githup\StandarApi-\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Standar Moduel Last\Githup\StandarApi-\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Standar Moduel Last\Githup\StandarApi-\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Standar Moduel Last\Githup\StandarApi-\Domain\obj\Debug\net6.0\Domain.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\StandarApi-\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\StandarApi-\Domain\bin\Debug\net6.0\Domain.dll
+D:\StandarApi-\Domain\bin\Debug\net6.0\Domain.pdb
+D:\StandarApi-\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\StandarApi-\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\StandarApi-\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\StandarApi-\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\StandarApi-\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\StandarApi-\Domain\obj\Debug\net6.0\Domain.dll
+D:\StandarApi-\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\StandarApi-\Domain\obj\Debug\net6.0\Domain.pdb
+D:\StandarApi-\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\StandarApi-\Domain\obj\Debug\net6.0\Domain.sourcelink.json

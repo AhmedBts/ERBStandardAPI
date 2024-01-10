@@ -1,0 +1,35 @@
+E:\Standar Moduel Last\Githup\StandarApi-\Persistence\bin\Debug\net6.0\Persistence.deps.json
+E:\Standar Moduel Last\Githup\StandarApi-\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+E:\Standar Moduel Last\Githup\StandarApi-\Persistence\bin\Debug\net6.0\Persistence.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Persistence\bin\Debug\net6.0\Persistence.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\Persistence\bin\Debug\net6.0\Domain.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Persistence\bin\Debug\net6.0\Domain.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+E:\Standar Moduel Last\Githup\StandarApi-\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Standar Moduel Last\Githup\StandarApi-\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+E:\Standar Moduel Last\Githup\StandarApi-\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+E:\Standar Moduel Last\Githup\StandarApi-\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+E:\Standar Moduel Last\Githup\StandarApi-\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+E:\Standar Moduel Last\Githup\StandarApi-\Persistence\obj\Debug\net6.0\Persistence.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Persistence\obj\Debug\net6.0\Persistence.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
+E:\Standar Moduel Last\Githup\StandarApi-\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+D:\StandarApi-\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\StandarApi-\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+D:\StandarApi-\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\StandarApi-\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\StandarApi-\Persistence\bin\Debug\net6.0\Domain.dll
+D:\StandarApi-\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\StandarApi-\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\StandarApi-\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\StandarApi-\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\StandarApi-\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\StandarApi-\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\StandarApi-\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\StandarApi-\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\StandarApi-\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\StandarApi-\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\StandarApi-\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
+D:\StandarApi-\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+D:\StandarApi-\Persistence\obj\Debug\net6.0\Persistence.sourcelink.json

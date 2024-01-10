@@ -1,0 +1,186 @@
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\appsettings.Development.json
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\appsettings.json
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Hub_API.staticwebassets.runtime.json
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Hub_API.exe
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Hub_API.deps.json
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Hub_API.runtimeconfig.json
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Hub_API.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Hub_API.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Azure.Core.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Azure.Identity.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Humanizer.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.Extensions.Configuration.NewtonsoftJson.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\System.CodeDom.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Application.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Common.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Domain.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Persistence.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\QueryDataBase.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Application.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Persistence.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Common.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\Domain.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\bin\Debug\net7.0\QueryDataBase.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\obj\Debug\net7.0\Hub_API.csproj.AssemblyReference.cache
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\obj\Debug\net7.0\Hub_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\obj\Debug\net7.0\Hub_API.AssemblyInfoInputs.cache
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\obj\Debug\net7.0\Hub_API.AssemblyInfo.cs
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\obj\Debug\net7.0\Hub_API.csproj.CoreCompileInputs.cache
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\obj\Debug\net7.0\Hub_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\obj\Debug\net7.0\Hub_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\obj\Debug\net7.0\staticwebassets\msbuild.Hub_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\obj\Debug\net7.0\staticwebassets\msbuild.build.Hub_API.props
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Hub_API.props
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Hub_API.props
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\obj\Debug\net7.0\staticwebassets.build.json
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\obj\Debug\net7.0\staticwebassets.development.json
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\obj\Debug\net7.0\scopedcss\bundle\Hub_API.styles.css
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\obj\Debug\net7.0\Hub_API.csproj.CopyComplete
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\obj\Debug\net7.0\Hub_API.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\obj\Debug\net7.0\refint\Hub_API.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\obj\Debug\net7.0\Hub_API.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\obj\Debug\net7.0\Hub_API.genruntimeconfig.cache
+E:\Standar Moduel Last\Githup\StandarApi-\Hub_API\obj\Debug\net7.0\ref\Hub_API.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\appsettings.Development.json
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\appsettings.json
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Hub_API.staticwebassets.runtime.json
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Hub_API.exe
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Hub_API.deps.json
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Hub_API.runtimeconfig.json
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Hub_API.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Hub_API.pdb
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Azure.Core.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Azure.Identity.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Humanizer.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.Extensions.Configuration.NewtonsoftJson.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\System.CodeDom.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Application.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Common.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Domain.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Persistence.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\QueryDataBase.dll
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Application.pdb
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Persistence.pdb
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Common.pdb
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\Domain.pdb
+D:\StandarApi-\Hub_API\bin\Debug\net7.0\QueryDataBase.pdb
+D:\StandarApi-\Hub_API\obj\Debug\net7.0\Hub_API.csproj.AssemblyReference.cache
+D:\StandarApi-\Hub_API\obj\Debug\net7.0\Hub_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\StandarApi-\Hub_API\obj\Debug\net7.0\Hub_API.AssemblyInfoInputs.cache
+D:\StandarApi-\Hub_API\obj\Debug\net7.0\Hub_API.AssemblyInfo.cs
+D:\StandarApi-\Hub_API\obj\Debug\net7.0\Hub_API.csproj.CoreCompileInputs.cache
+D:\StandarApi-\Hub_API\obj\Debug\net7.0\Hub_API.MvcApplicationPartsAssemblyInfo.cs
+D:\StandarApi-\Hub_API\obj\Debug\net7.0\Hub_API.MvcApplicationPartsAssemblyInfo.cache
+D:\StandarApi-\Hub_API\obj\Debug\net7.0\staticwebassets\msbuild.Hub_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\StandarApi-\Hub_API\obj\Debug\net7.0\staticwebassets\msbuild.build.Hub_API.props
+D:\StandarApi-\Hub_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Hub_API.props
+D:\StandarApi-\Hub_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Hub_API.props
+D:\StandarApi-\Hub_API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\StandarApi-\Hub_API\obj\Debug\net7.0\staticwebassets.build.json
+D:\StandarApi-\Hub_API\obj\Debug\net7.0\staticwebassets.development.json
+D:\StandarApi-\Hub_API\obj\Debug\net7.0\scopedcss\bundle\Hub_API.styles.css
+D:\StandarApi-\Hub_API\obj\Debug\net7.0\Hub_API.csproj.CopyComplete
+D:\StandarApi-\Hub_API\obj\Debug\net7.0\Hub_API.dll
+D:\StandarApi-\Hub_API\obj\Debug\net7.0\refint\Hub_API.dll
+D:\StandarApi-\Hub_API\obj\Debug\net7.0\Hub_API.pdb
+D:\StandarApi-\Hub_API\obj\Debug\net7.0\Hub_API.genruntimeconfig.cache
+D:\StandarApi-\Hub_API\obj\Debug\net7.0\ref\Hub_API.dll

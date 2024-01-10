@@ -1,0 +1,45 @@
+E:\Standar Moduel Last\Githup\StandarApi-\Application\bin\Debug\net6.0\Application.deps.json
+E:\Standar Moduel Last\Githup\StandarApi-\Application\bin\Debug\net6.0\Application.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Application\bin\Debug\net6.0\Application.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\Application\bin\Debug\net6.0\Common.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Application\bin\Debug\net6.0\Domain.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Application\bin\Debug\net6.0\Persistence.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Application\bin\Debug\net6.0\QueryDataBase.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Application\bin\Debug\net6.0\Common.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\Application\bin\Debug\net6.0\Domain.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\Application\bin\Debug\net6.0\Persistence.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\Application\bin\Debug\net6.0\QueryDataBase.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+E:\Standar Moduel Last\Githup\StandarApi-\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Standar Moduel Last\Githup\StandarApi-\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\Standar Moduel Last\Githup\StandarApi-\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\Standar Moduel Last\Githup\StandarApi-\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\Standar Moduel Last\Githup\StandarApi-\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+E:\Standar Moduel Last\Githup\StandarApi-\Application\obj\Debug\net6.0\Application.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Application\obj\Debug\net6.0\refint\Application.dll
+E:\Standar Moduel Last\Githup\StandarApi-\Application\obj\Debug\net6.0\Application.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\Application\obj\Debug\net6.0\ref\Application.dll
+D:\StandarApi-\Application\bin\Debug\net6.0\Application.deps.json
+D:\StandarApi-\Application\bin\Debug\net6.0\Application.dll
+D:\StandarApi-\Application\bin\Debug\net6.0\Application.pdb
+D:\StandarApi-\Application\bin\Debug\net6.0\Common.dll
+D:\StandarApi-\Application\bin\Debug\net6.0\Domain.dll
+D:\StandarApi-\Application\bin\Debug\net6.0\Persistence.dll
+D:\StandarApi-\Application\bin\Debug\net6.0\QueryDataBase.dll
+D:\StandarApi-\Application\bin\Debug\net6.0\Common.pdb
+D:\StandarApi-\Application\bin\Debug\net6.0\Domain.pdb
+D:\StandarApi-\Application\bin\Debug\net6.0\Persistence.pdb
+D:\StandarApi-\Application\bin\Debug\net6.0\QueryDataBase.pdb
+D:\StandarApi-\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\StandarApi-\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\StandarApi-\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\StandarApi-\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\StandarApi-\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\StandarApi-\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\StandarApi-\Application\obj\Debug\net6.0\Application.dll
+D:\StandarApi-\Application\obj\Debug\net6.0\refint\Application.dll
+D:\StandarApi-\Application\obj\Debug\net6.0\Application.pdb
+D:\StandarApi-\Application\obj\Debug\net6.0\ref\Application.dll
+D:\StandarApi-\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+D:\StandarApi-\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+D:\StandarApi-\Application\obj\Debug\net6.0\Application.sourcelink.json

@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hub_API", "Hub_API\Hub_API.csproj", "{8C25C376-3385-40F3-8302-0F1E480CF055}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{75E4311D-98C3-4917-986C-F928E9CB2859}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\Application.csproj", "{771C2705-4061-4EB9-AD09-A5AF7BCE2336}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "Persistence\Persistence.csproj", "{D356C30A-0CE3-424D-ABE7-9FC5E8A83B60}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueryDataBase", "QueryDataBase\QueryDataBase.csproj", "{9A1B4819-5296-49BB-9E9F-3EB6D0EA93BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{799B5B0D-269E-4AD5-B774-40326CBDCBAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C25C376-3385-40F3-8302-0F1E480CF055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C25C376-3385-40F3-8302-0F1E480CF055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C25C376-3385-40F3-8302-0F1E480CF055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C25C376-3385-40F3-8302-0F1E480CF055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75E4311D-98C3-4917-986C-F928E9CB2859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E4311D-98C3-4917-986C-F928E9CB2859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E4311D-98C3-4917-986C-F928E9CB2859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E4311D-98C3-4917-986C-F928E9CB2859}.Release|Any CPU.Build.0 = Release|Any CPU
+		{771C2705-4061-4EB9-AD09-A5AF7BCE2336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771C2705-4061-4EB9-AD09-A5AF7BCE2336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771C2705-4061-4EB9-AD09-A5AF7BCE2336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771C2705-4061-4EB9-AD09-A5AF7BCE2336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D356C30A-0CE3-424D-ABE7-9FC5E8A83B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D356C30A-0CE3-424D-ABE7-9FC5E8A83B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D356C30A-0CE3-424D-ABE7-9FC5E8A83B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D356C30A-0CE3-424D-ABE7-9FC5E8A83B60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A1B4819-5296-49BB-9E9F-3EB6D0EA93BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A1B4819-5296-49BB-9E9F-3EB6D0EA93BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A1B4819-5296-49BB-9E9F-3EB6D0EA93BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A1B4819-5296-49BB-9E9F-3EB6D0EA93BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799B5B0D-269E-4AD5-B774-40326CBDCBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799B5B0D-269E-4AD5-B774-40326CBDCBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799B5B0D-269E-4AD5-B774-40326CBDCBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799B5B0D-269E-4AD5-B774-40326CBDCBAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EC59F58-4E7A-4D29-BC7C-121C2F59B0F5}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/bts2023project
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Hub_API\\Hub_API.csproj
+		SccProjectName1 = Hub_API
+		SccLocalPath1 = Hub_API
+		SccProjectUniqueName2 = Domain\\Domain.csproj
+		SccProjectName2 = Domain
+		SccLocalPath2 = Domain
+		SccProjectUniqueName3 = Application\\Application.csproj
+		SccProjectName3 = Application
+		SccLocalPath3 = Application
+		SccProjectUniqueName4 = Persistence\\Persistence.csproj
+		SccProjectName4 = Persistence
+		SccLocalPath4 = Persistence
+		SccProjectUniqueName5 = QueryDataBase\\QueryDataBase.csproj
+		SccProjectName5 = QueryDataBase
+		SccLocalPath5 = QueryDataBase
+		SccProjectUniqueName6 = Common\\Common.csproj
+		SccProjectName6 = Common
+		SccLocalPath6 = Common
+	EndGlobalSection
+EndGlobal

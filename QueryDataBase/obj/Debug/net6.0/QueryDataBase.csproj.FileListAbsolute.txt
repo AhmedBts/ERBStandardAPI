@@ -1,0 +1,24 @@
+E:\Standar Moduel Last\Githup\StandarApi-\QueryDataBase\bin\Debug\net6.0\QueryDataBase.deps.json
+E:\Standar Moduel Last\Githup\StandarApi-\QueryDataBase\bin\Debug\net6.0\QueryDataBase.dll
+E:\Standar Moduel Last\Githup\StandarApi-\QueryDataBase\bin\Debug\net6.0\QueryDataBase.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\QueryDataBase\obj\Debug\net6.0\QueryDataBase.csproj.AssemblyReference.cache
+E:\Standar Moduel Last\Githup\StandarApi-\QueryDataBase\obj\Debug\net6.0\QueryDataBase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Standar Moduel Last\Githup\StandarApi-\QueryDataBase\obj\Debug\net6.0\QueryDataBase.AssemblyInfoInputs.cache
+E:\Standar Moduel Last\Githup\StandarApi-\QueryDataBase\obj\Debug\net6.0\QueryDataBase.AssemblyInfo.cs
+E:\Standar Moduel Last\Githup\StandarApi-\QueryDataBase\obj\Debug\net6.0\QueryDataBase.csproj.CoreCompileInputs.cache
+E:\Standar Moduel Last\Githup\StandarApi-\QueryDataBase\obj\Debug\net6.0\QueryDataBase.dll
+E:\Standar Moduel Last\Githup\StandarApi-\QueryDataBase\obj\Debug\net6.0\refint\QueryDataBase.dll
+E:\Standar Moduel Last\Githup\StandarApi-\QueryDataBase\obj\Debug\net6.0\QueryDataBase.pdb
+E:\Standar Moduel Last\Githup\StandarApi-\QueryDataBase\obj\Debug\net6.0\ref\QueryDataBase.dll
+D:\StandarApi-\QueryDataBase\bin\Debug\net6.0\QueryDataBase.deps.json
+D:\StandarApi-\QueryDataBase\bin\Debug\net6.0\QueryDataBase.dll
+D:\StandarApi-\QueryDataBase\bin\Debug\net6.0\QueryDataBase.pdb
+D:\StandarApi-\QueryDataBase\obj\Debug\net6.0\QueryDataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\StandarApi-\QueryDataBase\obj\Debug\net6.0\QueryDataBase.AssemblyInfoInputs.cache
+D:\StandarApi-\QueryDataBase\obj\Debug\net6.0\QueryDataBase.AssemblyInfo.cs
+D:\StandarApi-\QueryDataBase\obj\Debug\net6.0\QueryDataBase.csproj.CoreCompileInputs.cache
+D:\StandarApi-\QueryDataBase\obj\Debug\net6.0\QueryDataBase.dll
+D:\StandarApi-\QueryDataBase\obj\Debug\net6.0\refint\QueryDataBase.dll
+D:\StandarApi-\QueryDataBase\obj\Debug\net6.0\QueryDataBase.pdb
+D:\StandarApi-\QueryDataBase\obj\Debug\net6.0\ref\QueryDataBase.dll
+D:\StandarApi-\QueryDataBase\obj\Debug\net6.0\QueryDataBase.sourcelink.json

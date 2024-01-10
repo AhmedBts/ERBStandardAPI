@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "84uDnrf4ilbIkAAGLFwJ7GDWYmp3h0LUWAZzpQOorzE=",
+  "Source": "Hub_API",
+  "BasePath": "_content/Hub_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Hub_API\\wwwroot",
+      "Source": "Hub_API",
+      "ContentRoot": "D:\\StandarApi-\\Hub_API\\wwwroot\\",
+      "BasePath": "_content/Hub_API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\StandarApi-\\Hub_API\\wwwroot\\Images\\15\\Images.png",
+      "SourceId": "Hub_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StandarApi-\\Hub_API\\wwwroot\\",
+      "BasePath": "_content/Hub_API",
+      "RelativePath": "Images/15/Images.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\15\\Images.png"
+    }
+  ]
+}
