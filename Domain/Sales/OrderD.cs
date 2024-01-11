@@ -50,11 +50,8 @@ namespace Domain.Sales
         public double? DiscAmount2 { get; set; }
         public double? DiscPercent2 { get; set; }
         public double? EqDiscAmount2 { get; set; }
-        public OrderH? orderh { get; set; }
+        public OrderH orderh { get; set; }
 
-        public static explicit operator List<object>(OrderD v)
-        {
-            throw new NotImplementedException();
-        }
+       
     }
 }

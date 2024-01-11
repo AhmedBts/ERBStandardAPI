@@ -39,7 +39,9 @@ namespace Persistence
         ////New 2024
         public DbSet<OrderH> OrderH { get; set; }
         public DbSet<OrderD> OrderD { get; set; }
-     
+        public DbSet<TrxH> TrxH { get; set; }
+        public DbSet<TrxD> TrxD { get; set; }
+
         /////
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
