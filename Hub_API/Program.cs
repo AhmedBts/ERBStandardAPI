@@ -1,8 +1,8 @@
 using Application;
-
+using Application.Interface.Sales;
 using Application.Interface.SecurityModule.Master;
 using Application.Interface.SecurityModule.Transaction;
-
+using Application.Repository.Sales;
 using Application.Repository.SecurityModule.Master;
 using Application.Repository.SecurityModule.Transaction;
 using Domain;
@@ -47,6 +47,8 @@ builder.Services.AddScoped<IAuth, AuthRepository>();
 builder.Services.AddScoped<IGroupPermission, GroupPermissionRepository>();
 builder.Services.AddScoped<IPrgPer, PrgPerRepository>();
 builder.Services.AddScoped<ICreateMasterFront, CreateMasterForm>();
+builder.Services.AddScoped<IOrder, OrderRepo>();
+builder.Services.AddScoped<ITrx, TrxRepo>();
 
 //builder.Services.AddMvc()
 //        .AddJsonOptions(

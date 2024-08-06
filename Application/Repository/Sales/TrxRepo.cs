@@ -55,6 +55,10 @@ namespace Application.Repository.Sales
             {
                 var hhh = await _context.TrxH.Where(ordH => ordH.BranchCode == BranchCode &&
                     ordH.Type == Type && ordH.Year == Year).ToListAsync();
+                foreach (var hh in hhh)
+                {
+                    hh.trxds = await GettrxdList(BranchCode, Type, Year, hh.Serial);
+                }
                 return hhh;
             }
             catch (Exception ex)
@@ -63,7 +67,20 @@ namespace Application.Repository.Sales
                 return null;
             }
         }
+        private async Task<List<TrxD>> GettrxdList(int BranchCode, int Type, int Year, int serial)
+        {
+            try
+            {
+                var DDD = await _context.TrxD.Where(ordD => ordD.BranchCode == BranchCode &&
+                    ordD.Type == Type && ordD.Year == Year && ordD.Serial == serial).ToListAsync();
+                return DDD;
+            }
+            catch (Exception ex)
+            {
 
+                return null;
+            }
+        }
         public async Task<List<TrxD>> GetOrderDs(int BranchCode, int Type, int Year, int serial)
         {
             try

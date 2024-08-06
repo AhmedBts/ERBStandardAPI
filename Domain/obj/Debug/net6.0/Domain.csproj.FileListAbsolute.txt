@@ -23,3 +23,16 @@ D:\StandarApi-\Domain\obj\Debug\net6.0\refint\Domain.dll
 D:\StandarApi-\Domain\obj\Debug\net6.0\Domain.pdb
 D:\StandarApi-\Domain\obj\Debug\net6.0\ref\Domain.dll
 D:\StandarApi-\Domain\obj\Debug\net6.0\Domain.sourcelink.json
+D:\ERpStandardAPi\ERBStandardAPI\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\ERpStandardAPi\ERBStandardAPI\Domain\bin\Debug\net6.0\Domain.dll
+D:\ERpStandardAPi\ERBStandardAPI\Domain\bin\Debug\net6.0\Domain.pdb
+D:\ERpStandardAPi\ERBStandardAPI\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\ERpStandardAPi\ERBStandardAPI\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ERpStandardAPi\ERBStandardAPI\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\ERpStandardAPi\ERBStandardAPI\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\ERpStandardAPi\ERBStandardAPI\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\ERpStandardAPi\ERBStandardAPI\Domain\obj\Debug\net6.0\Domain.sourcelink.json
+D:\ERpStandardAPi\ERBStandardAPI\Domain\obj\Debug\net6.0\Domain.dll
+D:\ERpStandardAPi\ERBStandardAPI\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\ERpStandardAPi\ERBStandardAPI\Domain\obj\Debug\net6.0\Domain.pdb
+D:\ERpStandardAPi\ERBStandardAPI\Domain\obj\Debug\net6.0\ref\Domain.dll

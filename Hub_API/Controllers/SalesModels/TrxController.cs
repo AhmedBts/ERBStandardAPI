@@ -18,7 +18,7 @@ namespace Hub_API.Controllers.SalesModels
         }
 
 
-        [HttpGet("GetAllOrder/{BranchCode}/{Type}/{Year}")]
+        [HttpGet("GetAllTrx/{BranchCode}/{Type}/{Year}")]
         public async Task<IActionResult> Getall(int BranchCode, int Type, int Year)
         {
             var apiResponse = new ApiResponse<List<TrxH>>();

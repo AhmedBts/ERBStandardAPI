@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using Persistence;
 using System;
 using System.Collections.Generic;
-using System.Data.Entity;
+
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -54,10 +54,15 @@ namespace Application.Repository.Sales
 
         public async Task<List<OrderH>> GetAllH(int BranchCode, string ProcessType, int Type, int Year)
         {
+            
             try
             {
                 var hhh = await _context.OrderH.Where(ordH => ordH.BranchCode == BranchCode &&
                     ordH.ProcessType == ProcessType && ordH.Type == Type && ordH.Year == Year).ToListAsync();
+                foreach (var hh in hhh)
+                {
+                    hh.orderd = await GetOrderDList(BranchCode, ProcessType, Type, Year, hh.Serial);
+                }
                 return hhh;
             }
             catch (Exception ex)
@@ -66,7 +71,20 @@ namespace Application.Repository.Sales
                 return null;
             }
         }
+        private async Task<List<OrderD>> GetOrderDList(int BranchCode, string ProcessType, int Type, int Year, int serial)
+        {
+            try
+            {
+                var DDD = await _context.OrderD.Where(ordD => ordD.BranchCode == BranchCode &&
+                    ordD.ProcessType == ProcessType && ordD.Type == Type && ordD.Year == Year && ordD.Serial == serial).ToListAsync();
+                return DDD;
+            }
+            catch (Exception ex)
+            {
 
+                return null;
+            }
+        }
         public async Task<List<OrderD>> GetOrderDs(int BranchCode, string ProcessType, int Type, int Year, int serial)
         {
             try

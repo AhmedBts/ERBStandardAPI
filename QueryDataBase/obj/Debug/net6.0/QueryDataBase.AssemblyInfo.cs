@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QueryDataBase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+968d710907125fa9fce06328f5f89e1bdb6e7526")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("QueryDataBase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QueryDataBase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

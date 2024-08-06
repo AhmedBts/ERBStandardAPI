@@ -5327,23 +5327,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+    "C:\\Users\\Ahmed.abduallah\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\StandarApi-\\Hub_API\\Hub_API.csproj",
+      "projectUniqueName": "D:\\ERpStandardAPi\\ERBStandardAPI\\Hub_API\\Hub_API.csproj",
       "projectName": "Hub_API",
-      "projectPath": "D:\\StandarApi-\\Hub_API\\Hub_API.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\StandarApi-\\Hub_API\\obj\\",
+      "projectPath": "D:\\ERpStandardAPi\\ERBStandardAPI\\Hub_API\\Hub_API.csproj",
+      "packagesPath": "C:\\Users\\Ahmed.abduallah\\.nuget\\packages\\",
+      "outputPath": "D:\\ERpStandardAPi\\ERBStandardAPI\\Hub_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ahmed.abduallah\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5352,17 +5352,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\StandarApi-\\Application\\Application.csproj": {
-              "projectPath": "D:\\StandarApi-\\Application\\Application.csproj"
+            "D:\\ERpStandardAPi\\ERBStandardAPI\\Application\\Application.csproj": {
+              "projectPath": "D:\\ERpStandardAPi\\ERBStandardAPI\\Application\\Application.csproj"
             },
-            "D:\\StandarApi-\\Persistence\\Persistence.csproj": {
-              "projectPath": "D:\\StandarApi-\\Persistence\\Persistence.csproj"
+            "D:\\ERpStandardAPi\\ERBStandardAPI\\Persistence\\Persistence.csproj": {
+              "projectPath": "D:\\ERpStandardAPi\\ERBStandardAPI\\Persistence\\Persistence.csproj"
             }
           }
         }
@@ -5433,7 +5434,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

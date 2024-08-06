@@ -22,3 +22,15 @@ D:\StandarApi-\QueryDataBase\obj\Debug\net6.0\refint\QueryDataBase.dll
 D:\StandarApi-\QueryDataBase\obj\Debug\net6.0\QueryDataBase.pdb
 D:\StandarApi-\QueryDataBase\obj\Debug\net6.0\ref\QueryDataBase.dll
 D:\StandarApi-\QueryDataBase\obj\Debug\net6.0\QueryDataBase.sourcelink.json
+D:\ERpStandardAPi\ERBStandardAPI\QueryDataBase\bin\Debug\net6.0\QueryDataBase.deps.json
+D:\ERpStandardAPi\ERBStandardAPI\QueryDataBase\bin\Debug\net6.0\QueryDataBase.dll
+D:\ERpStandardAPi\ERBStandardAPI\QueryDataBase\bin\Debug\net6.0\QueryDataBase.pdb
+D:\ERpStandardAPi\ERBStandardAPI\QueryDataBase\obj\Debug\net6.0\QueryDataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\ERpStandardAPi\ERBStandardAPI\QueryDataBase\obj\Debug\net6.0\QueryDataBase.AssemblyInfoInputs.cache
+D:\ERpStandardAPi\ERBStandardAPI\QueryDataBase\obj\Debug\net6.0\QueryDataBase.AssemblyInfo.cs
+D:\ERpStandardAPi\ERBStandardAPI\QueryDataBase\obj\Debug\net6.0\QueryDataBase.csproj.CoreCompileInputs.cache
+D:\ERpStandardAPi\ERBStandardAPI\QueryDataBase\obj\Debug\net6.0\QueryDataBase.sourcelink.json
+D:\ERpStandardAPi\ERBStandardAPI\QueryDataBase\obj\Debug\net6.0\QueryDataBase.dll
+D:\ERpStandardAPi\ERBStandardAPI\QueryDataBase\obj\Debug\net6.0\refint\QueryDataBase.dll
+D:\ERpStandardAPi\ERBStandardAPI\QueryDataBase\obj\Debug\net6.0\QueryDataBase.pdb
+D:\ERpStandardAPi\ERBStandardAPI\QueryDataBase\obj\Debug\net6.0\ref\QueryDataBase.dll

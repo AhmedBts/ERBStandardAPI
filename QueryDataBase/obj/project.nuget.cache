@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MAGSQ0LbGqDGkGAYHburNU27ugsYoLJ7XhtuR5WQsiW8zKwaSv6MuPXDWTHAgLVbMngIicDnqeRedrIDPaTCAA==",
+  "dgSpecHash": "u995Tmcvy5PZinWj2axDM4fTT5ah78Tq4JtptWPYmlDUdB3c//kDnsBaD0oarK1rdcCKmq7uRUlRWPqPCzwHXQ==",
   "success": true,
-  "projectFilePath": "D:\\StandarApi-\\QueryDataBase\\QueryDataBase.csproj",
+  "projectFilePath": "D:\\ERpStandardAPi\\ERBStandardAPI\\QueryDataBase\\QueryDataBase.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
